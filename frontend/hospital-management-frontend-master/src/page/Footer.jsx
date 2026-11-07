@@ -23,56 +23,24 @@ const Footer = () => {
                 </div>
 
                 <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-                  <h5 class="text-uppercase text-color-4">About us</h5>
+                  <h5 class="text-uppercase text-color-4">About Us</h5>
 
                   <ul class="list-unstyled mb-0">
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 1
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
+                    <li><a href="#!" class="text-color">Our Story</a></li>
+                    <li><a href="#!" class="text-color">Mission & Vision</a></li>
+                    <li><a href="#!" class="text-color">Leadership Team</a></li>
+                    <li><a href="#!" class="text-color">Awards & Recognition</a></li>
                   </ul>
                 </div>
 
                 <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-                  <h5 class="text-uppercase text-color-4">Contact us</h5>
+                  <h5 class="text-uppercase text-color-4">Contact Us</h5>
 
                   <ul class="list-unstyled mb-0">
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 1
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
+                    <li><a href="#!" class="text-color">Request Appointment</a></li>
+                    <li><a href="#!" class="text-color">Emergency Services</a></li>
+                    <li><a href="#!" class="text-color">Find a Doctor</a></li>
+                    <li><a href="#!" class="text-color">Support Center</a></li>
                   </ul>
                 </div>
 
@@ -80,57 +48,26 @@ const Footer = () => {
                   <h5 class="text-uppercase text-color-4">Careers</h5>
 
                   <ul class="list-unstyled mb-0">
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 1
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
+                    <li><a href="#!" class="text-color">Current Openings</a></li>
+                    <li><a href="#!" class="text-color">Internship Programs</a></li>
+                    <li><a href="#!" class="text-color">Employee Benefits</a></li>
+                    <li><a href="#!" class="text-color">Life at HMS</a></li>
                   </ul>
                 </div>
 
                 <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
-                  <h5 class="text-uppercase text-color-4">Links</h5>
+                  <h5 class="text-uppercase text-color-4">Quick Links</h5>
 
                   <ul class="list-unstyled mb-0">
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 1
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 2
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 3
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#!" class="text-color">
-                        Link 4
-                      </a>
-                    </li>
+                    <li><a href="#!" class="text-color">Patient Portal</a></li>
+                    <li><a href="#!" class="text-color">Insurance Partners</a></li>
+                    <li><a href="#!" class="text-color">Health Blog</a></li>
+                    <li><a href="#!" class="text-color">FAQs</a></li>
                   </ul>
                 </div>
               </div>
             </section>
+
 
             <hr class="mb-4" />
 
@@ -151,7 +88,7 @@ const Footer = () => {
             <hr class="mb-4" />
           </div>
 
-          
+
         </footer>
       </div>
     </div>

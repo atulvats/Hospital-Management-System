@@ -1,0 +1,19 @@
+# Environment secrets
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Java build output
+target/
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+
+# Logs
+*.log

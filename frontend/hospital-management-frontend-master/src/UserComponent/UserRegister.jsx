@@ -107,9 +107,11 @@ const UserRegister = () => {
       result
         .json()
         .then((res) => {
+          
           console.log("response", res);
         })
         .catch((error) => {
+          alert("Registration failed!!!");
           console.log(error);
         });
     });
